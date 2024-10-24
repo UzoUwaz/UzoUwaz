@@ -1,16 +1,20 @@
-## Hi there 👋
+## **Uzoma Uwazurike**
+#### Chemical Engineer turned Data Scientist 
+I received my Bachelor's Degree in Chemical Engineering from Howard University. I decided to pursue data science because to me data is a tool that has been changing the world since it's inception. Currently topics that interest me most are the IOT, DePIN and Blockchain technology. 
 
-<!--
-**UzoUwaz/UzoUwaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python, Excel , R, Git, Tableau, PowerBI, SQL
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Cryptocurrency projects  
+- 🌱 I’m currently learning Python, Rust, MoveVM 
+- 👯 I’m looking to collaborate on Decentralized Protocols  
+- 💬 Ask me about Cryptocurrency (We can talk for hours!) 
+- 📫 How to reach me: udu@duke.edu 
+- ⚡ Fun fact: I am a former athlete so ask me about fitness as well! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/UzoUwaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/uzoduwaz/)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=UzoUwaz)  
+
+
 -->
