@@ -6,7 +6,8 @@ Skills: Python, Excel , R, Git, Tableau, PowerBI, SQL
 
 - 🔭 I’m currently working on Cryptocurrency projects  
 - 🌱 I’m currently learning Python, Rust, MoveVM 
-- 👯 I’m looking to collaborate on Decentralized Protocols  
+- 👯 I’m looking to collaborate on Decentralized Protocols
+- 🤔 I’m looking for help with meeting and connecting with like-minded individuals in the DeFi sector  
 - 💬 Ask me about Cryptocurrency (We can talk for hours!) 
 - 📫 How to reach me: udu@duke.edu 
 - ⚡ Fun fact: I am a former athlete so ask me about fitness as well! 
