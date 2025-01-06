@@ -2,6 +2,8 @@
 #### Chemical Engineer turned Data Scientist 
 I received my Bachelor's Degree in Chemical Engineering from Howard University. I decided to pursue data science because to me data is a tool that has been changing the world since it's inception. Currently topics that interest me most are the IOT, DePIN and Blockchain technology. 
 
+#### Check out my Medium for some interesting articles! https://medium.com/@zenithform 
+
 Skills: Python, Excel , R, Git, Tableau, PowerBI, SQL
 
 - 🔭 I’m currently working on Cryptocurrency projects  
